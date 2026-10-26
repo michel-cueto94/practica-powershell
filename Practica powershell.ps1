@@ -2,7 +2,7 @@
 
 $PSVersionTable.PSVersion
 
-# 2. Configuración de permisividad (Directiva de ejecución)
+# 2. Configuración de permisividad 
 
 Get-ExecutionPolicy -List
 
